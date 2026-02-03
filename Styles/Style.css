@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+}
+  
+html, body {
+    overflow-x: hidden;
+}
+
+.container {
+    padding-top: 50px;
+}
+  
+.logo {
+    filter: invert(100%);
+}
+
+.btn-tar {
+    border: none;
+}
+
+.clrtar {
+    background-color: #093950;
+}
+
+.perfil {
+    height: 200px;
+}
+
+.perfilxs {
+    height: 100px;
+}
+
+.portada {
+    height: 300px;
+    object-fit: cover;
+    width: 100%;
+}
+
+.portadaxs {
+    height: 150px;
+    object-fit: cover;
+    width: 100%;
+}
